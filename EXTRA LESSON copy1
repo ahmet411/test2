@@ -1,0 +1,13 @@
+EXTRA LESSON
+
+-----two main questions------ 
+1. How we create objects
+2. How and where we store them
+
+Object creation 
+--Declaration 
+--Insantilization
+--Initializtion
+
+each class contains constructor 
+constructor will always have the name of the class
