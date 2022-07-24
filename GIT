@@ -1,0 +1,16 @@
+GIT
+Day 1 
+Git is open source, distributed version control system that handles source code change 
+
+Git saves different versions of project in a folder known as a Git repository
+
+Version control in Git is --- So you can control versions of app, it helps to keep track of the changes and syncro everything in one place.
+
+
+
+
+Branches, Merging, rebasing 
+
+commit- create new version
+remote directory - original project server
+git repository- new project with 
